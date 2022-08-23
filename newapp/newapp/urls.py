@@ -19,4 +19,5 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('fitur1/', admin.site.urls),
+    path('fitur2/', admin.site.urls),
 ]
